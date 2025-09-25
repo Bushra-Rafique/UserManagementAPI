@@ -30,7 +30,16 @@ This project is submitted as a **Coursera assignment** for peer review.
 - Git & GitHub
 - VS Code
 
----
+## Assignment Requirements Covered
+
+| Requirement                                   | Status |
+|-----------------------------------------------|--------|
+| GitHub repository created                      | ✅     |
+| CRUD endpoints implemented                     | ✅     |
+| Debugged with Copilot                           | ✅     |
+| Data validation implemented                    | ✅     |
+| Middleware integrated (Logging & Authentication) | ✅     |
+
 
 ## How to Run
 
@@ -60,16 +69,5 @@ You can provide it in headers or as a query parameter:
 ```bash
 http://localhost:5000/api/Users?api_key=mysecret
 
----
-
-## Assignment Requirements Covered
-
-| Requirement                                   | Status |
-|-----------------------------------------------|--------|
-| GitHub repository created                      | ✅     |
-| CRUD endpoints implemented                     | ✅     |
-| Debugged with Copilot                           | ✅     |
-| Data validation implemented                    | ✅     |
-| Middleware integrated (Logging & Authentication) | ✅     |
 
 
